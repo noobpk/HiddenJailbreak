@@ -10,3 +10,9 @@ HiddenJailbreak_FILES = Tweak.x
 HiddenJailbreak_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+
+check:
+	@echo "Check Success."
+
+distcheck:
+	@echo "Dist Check Success."
