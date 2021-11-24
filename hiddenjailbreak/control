@@ -1,0 +1,9 @@
+Package: me.noobpk.hiddenjailbreak
+Name: HiddenJailbreak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: noobpk
+Author: Lê Thành Phúc
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
