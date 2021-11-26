@@ -14,6 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: Access tweak folder
+      run: cd /hiddenjailbreak
+      
 #     - name: configure
 #       run: ./configure
       
