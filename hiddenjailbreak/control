@@ -1,9 +1,9 @@
 Package: me.noobpk.hiddenjailbreak
 Name: HiddenJailbreak
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: noobpk
-Author: Lê Thành Phúc
+Description: A Bypass Jailbreak Detection Tweak!
+Maintainer: noobpk <ltp.noobpk@gmail.com>
+Author: Lê Thành Phúc <ltp.noobpk@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
