@@ -18,4 +18,5 @@ A Bypass Jailbreak Detection Tweak!
 | ---- |
 | .... |
 
-### Source Code base on [Shadow](https://github.com/jjolano/shadow)
+## Credit
+Source Code base on [Shadow](https://github.com/jjolano/shadow)
